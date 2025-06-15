@@ -1,3 +1,4 @@
+
 # Splitting the topic into sub domains
 
 ## 0:00 - 0:45 | Introduction and Explanation |
@@ -41,4 +42,28 @@
    - For each give a 1-2 sentence explanation and who a quick demo
 ## 5:00–6:30 | Branching in Git: Purpose & Process
 
+   - Explain what branches are and why they’re useful (feature development, experiments, etc.).
+   - Show how to create, switch, and delete branches (`git branch`, `git checkout`, `git merge`, `git branch -d`).
+   - Demo: Create a branch, make a change, commit, and merge it back.
+## 6:30–8:30 | Detailed Branch Workflow Demo
+- Step-by-step demo:
+  - Clone repo
+  - Create/switch to new branch
+  - Make changes & stage (`git add`)
+  - Commit (`git commit`)
+  - Pull latest changes (`git pull`)
+  - Merge changes (`git merge`)
+  - Push branch to remote (`git push`)
+- Show resolving a simple merge.
+## 8:30–9:30 | Typical Git Workflow Recap
+- Summarize a basic workflow:
+  - Clone → Branch → Edit → Stage → Commit → Pull → Merge → Push
+- Highlight best practices (commit messages, frequent pushes, pull before push).
 
+## 9:30–10:00 | Conclusion & Tips
+- Recap the key points: Git vs. GitHub, repo creation, essential commands, branching, and workflow.
+- Encourage viewers to practice and explore further.
+- Thank viewers for watching and invite questions or comments.
+
+
+---
