@@ -46,4 +46,4 @@
 # How To present #
 1. Screen record the things as the same time you presenting the thing may be shown in the split screen or a small window in bottom right of the screen
 2. Use English as the primary presentation language 
-3. 
+3. Keep a formal language and keep it simple and understandable
