@@ -1,0 +1,29 @@
+{
+  "conversations": [
+    {
+      "id": "1749972719063",
+      "title": "hi",
+      "messages": [
+        {
+          "id": "1749972719062",
+          "content": "hi",
+          "role": "user",
+          "timestamp": 1749972719062
+        },
+        {
+          "id": "chatcmpl-Bic8NadK4kwB2H1dQag6G0c2C3xFa",
+          "content": "Hello! How can I help you with Obsidian today? Let me know what you’re working on—vault setup, plugin configuration, note organization, or anything else.",
+          "role": "assistant",
+          "timestamp": 1749972722598
+        }
+      ],
+      "createdAt": 1749972719063,
+      "updatedAt": 1749972722598,
+      "model": {
+        "label": "GPT-o4-mini",
+        "value": "o4-mini"
+      }
+    }
+  ],
+  "activeConversationId": "1749972719063"
+}
