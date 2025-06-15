@@ -44,6 +44,7 @@
 	5. update local repo with changes (git pull)
 	6. pushing branch to main
 # How To present #
-1. Screen record the things as the same time you presenting the thing may be shown in the split screen or a small window in bottom right of the screen
-2. Use English as the primary presentation language 
-3. Keep a formal language and keep it simple and understandable
+- Use clear English, keep explanations simple and formal.
+- Use split screen or a small webcam overlay for a personal touch.
+- Show your screen as you perform each demo live.
+- Keep each section concise to fit the 10-minute timeframe.
