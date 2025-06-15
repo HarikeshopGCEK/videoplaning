@@ -1,5 +1,5 @@
 {
-  "nodePath": "default",
+  "nodePath": "C:\\Program Files\\nodejs\\node.exe",
   "nodePathUpdatedToNode20": false,
   "enabled": true,
   "hotkeys": {
@@ -24,12 +24,12 @@
     "deviceCode": "ede59ff43f31023f449113fd96fe04096b41968e",
     "pat": "ghu_67xjvX5Tm83V00dOjeUSPdrCJ6fkUC3JYc0s",
     "accessToken": {
-      "token": "tid=3937a6e8153489c9cbc3baddb6a87338;exp=1749974501;sku=free_educational;proxy-ep=proxy.individual.githubcopilot.com;st=dotcom;chat=1;cit=1;malfil=1;editor_preview_features=1;mcp=0;ccr=1;rt=1;8kp=1;ip=49.47.199.130;asn=AS55836:47accc883b6a34b015fd19589cffcc87865ce50bb04b13bbf36569196aa5f5f0",
-      "expiresAt": 1749974501
+      "token": "tid=3937a6e8153489c9cbc3baddb6a87338;exp=1749993701;sku=free_educational;proxy-ep=proxy.individual.githubcopilot.com;st=dotcom;chat=1;cit=1;malfil=1;editor_preview_features=1;mcp=0;ccr=1;rt=1;8kp=1;ip=49.47.199.130;asn=AS55836:723d498a0dc720321b1d3f13cd851e631ce63270a46bc7f10c742ffeb3b3b3cc",
+      "expiresAt": 1749993701
     },
     "selectedModel": {
-      "label": "GPT-o4-mini",
-      "value": "o4-mini"
+      "label": "GPT-4o",
+      "value": "gpt-4o-2024-08-06"
     }
   },
   "systemPrompt": "You are GitHub Copilot, an AI assistant. You are helping the user with their tasks in Obsidian.",

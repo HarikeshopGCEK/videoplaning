@@ -13,30 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Timing And scailing to Duration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "Timing And scailing to Duration"
             }
           },
           {
             "id": "02ef783f987e6348",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e66ef7fb97c206bc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "Planning of the Video.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-06-15 18.10.14.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Planning of the Video"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-15 18.10.14.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,16 +174,6 @@
             }
           },
           {
-            "id": "b6cb1b93a1a6717d",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
-          },
-          {
             "id": "682b9cde61b3589f",
             "type": "leaf",
             "state": {
@@ -185,13 +182,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "73fc1e474711c432",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 204.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,10 +213,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "02ef783f987e6348",
+  "active": "571c3786be768c7f",
   "lastOpenFiles": [
     "HOME.md",
+    "Timing And scailing to Duration.md",
     "Planning of the Video.md",
+    "Excalidraw/Drawing 2025-06-15 18.10.14.excalidraw.md",
+    "Excalidraw",
     "create a link.md"
   ]
 }

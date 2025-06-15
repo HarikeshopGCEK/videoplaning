@@ -31,14 +31,14 @@
 	20. git stash
 5. Detailed explanation about branching in Git and For what it is used and how it is helpful
 	1. Creating a demo branch in my repo and commit some changes from that branch and merge it using git cli
-	2. Explain the command that deals with branches in detial
+	2. Explain the command that deals with branches in detail
 		1. Git merge
 		2. merge
-		3. deleteing branch
+		3. deleting branch
 		4. checkout
 6. Give a basic git workflow 
 	1. clone a repo
-	2. create and switch to a newbranch
+	2. create and switch to a new branch
 	3. make changes and stage them
 	4. commit changes
 	5. update local repo with changes (git pull)
