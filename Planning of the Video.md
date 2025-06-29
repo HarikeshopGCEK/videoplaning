@@ -43,8 +43,10 @@
 	4. commit changes
 	5. update local repo with changes (git pull)
 	6. pushing branch to main
+---
 # How To present #
 - Use clear English, keep explanations simple and formal.
 - Use split screen or a small webcam overlay for a personal touch.
 - Show your screen as you perform each demo live.
 - Keep each section concise to fit the 10-minute timeframe.
+--- 

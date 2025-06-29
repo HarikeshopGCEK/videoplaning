@@ -2,5 +2,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "terminal",
-  "github-copilot"
+  "github-copilot",
+  "execute-code"
 ]

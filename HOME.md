@@ -7,5 +7,5 @@ The note helps in organizing the plan to commit the first project
 	1. Record as the work is being done
 	2. Explain how git helped in this project when the whole work is finished
 3. Got to [[Planning of the Video]] for what to include in the video 
-
+4. Got to [[Timing And Duration]] for detailed time splitting
 
