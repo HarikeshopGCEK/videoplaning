@@ -11,10 +11,9 @@
 *The file system will look like something below*
 
 ```plaintext
-
 📁 obstacle_avoider_library
  ┣ 📁 examples
-	 ┗ 📄 example.cpp
+	┗ 📄 example.cpp
  ┣ 📁 test
  ┣ 📁 src
 	┣ 📄 obstacle.cpp
@@ -22,6 +21,9 @@
  ┣ 📄 library.json
  ┣ 📄 LICENSE
  ┗ 📄 README.md
- 
 ```
 
+1. The example folder contains the example code which utilizes the library
+2. `obstacle.h` file contain the header file for the library
+3. And the `obstacle.cpp` contain the function definitions
+4. The created library will be published to platformio registry 
