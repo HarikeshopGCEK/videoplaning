@@ -130,6 +130,6 @@ private:
 - Worked on the `contrib` branch and understood how branching works
 ### 3. Adithya Raj KK
 - Created the README.md file for understanding of people
-- Worked on the branch doumentation
+- Worked on the branch documentation
 ---
 # Screen Shots and Documentation
