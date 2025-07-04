@@ -120,3 +120,16 @@ private:
 
 # Contributions of Members :
 
+### 1. Harikesh O P
+- Created the repository.
+- Initialised the platfromio project and decided which function to create in the library and how to define them and etc
+- Explained the work and git Eco system to other members
+- Overview
+### 2. Anamika PP
+- Created the code for function function definitions 
+- Worked on the `contrib` branch and understood how branching works
+### 3. Adithya Raj KK
+- Created the README.md file for understanding of people
+- Worked on the branch doumentation
+---
+# Screen Shots and Documentation
