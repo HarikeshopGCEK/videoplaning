@@ -29,6 +29,7 @@
 4. The created library will be published to platformio registry 
 ## Code files:
 ### `obstacle.cpp`
+
 ```cpp
 #include <Arduino.h>
 #include "obstacle.h"
@@ -116,4 +117,6 @@ private:
 
 #endif
 ```
+
+# Contributions of Members :
 
